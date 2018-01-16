@@ -5,5 +5,6 @@ Poveznica na stranicu
 
 http://dogwalks.byethost7.com/setnjepasa/
 
-prijava: Korisnik:a
-         Lozinka:a
+prijava:    Korisnik:a     Lozinka:a
+ili         Korisnik:mbuzinac88@gmail.com    lozinka:t
+          
